@@ -22,7 +22,7 @@
 
 ### Image sample
 
-<img src="" height="386" width="770"/>
+<img src="https://github.com/Lalu423/text-edit-pro/blob/main/assets/text-edit-sample.jpg" height="386" width="770"/>
 
 ## Contribution
     The mini-project in the PWA is very helpful.
